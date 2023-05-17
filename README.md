@@ -58,5 +58,5 @@
 ### Sub rotinas (Funções e procedimentos)
 [Sub rotinas (Funções e procedimentos)](/Arquivos/Conteudo%20do%20curso/6.1%20Sub%20rotinas%20(Fun%C3%A7%C3%B5es%20e%20procedimentos).md) <br>
 [Recursividade (Funções recursivas)](/Arquivos/Conteudo%20do%20curso/6.2%20Recursividade.md) <br>
-[8 Exemplos de associatividade e precedência de operadores em programação]() <br>
+[8 Exemplos de associatividade e precedência de operadores em programação](/Arquivos/Conteudo%20do%20curso/6.3%20exemplos%20de%20Associatividade.md) <br>
 [5° Lista](/Arquivos/Conteudo%20do%20curso/Lista%20de%20exerc%C3%ADcios%205.md)

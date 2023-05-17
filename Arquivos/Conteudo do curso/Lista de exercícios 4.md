@@ -51,6 +51,7 @@ programa
 
 ### Exercício 02
 Crie um vetor de 5 números informados pelo usuário e monte outro vetor contendo os valores do primeiro multiplicados por um fator também informado pelo usuário. Mostrar os elementos de ambos os vetores na tela, lado a lado, como segue:
+
 <img src="/Arquivos/img/43.png" alt="Texto Alternativo" width="200">
 
 <details>
@@ -97,6 +98,7 @@ programa
 
 ### Exercício 03
 Cadastrar 5 nomes de professores e seus respectivos tempos de profissão. Armazene esses valores em dois vetores distintos. Mostrar os dados na tela, em uma tabela com os nomes dos professores na coluna à esquerda, e os tempos de profissão de cada um em uma coluna à direita, como no exemplo a seguir:
+
 <img src="/Arquivos/img/44.png" alt="Texto Alternativo" width="500">
 
 <details>

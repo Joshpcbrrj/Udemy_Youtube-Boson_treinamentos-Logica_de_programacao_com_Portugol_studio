@@ -2,7 +2,7 @@
 
 # Udemy/Youtube - Lógica de programação com Portugol studio
 
-> Curso de lógica de programação com **Portugol studio** da Boson treinamentos - **Prof. Fábio dos Reis**
+> Curso de lógica de programação com **Portugol studio** da Boson treinamentos - **Prof. Fábio dos Reis** / 7 Horas de conteúdo
 
 ### Certificado
 [Certificado](/Arquivos/Certificado/Certificado.pdf)
